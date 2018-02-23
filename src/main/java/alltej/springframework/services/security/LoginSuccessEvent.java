@@ -3,7 +3,7 @@ package alltej.springframework.services.security;
 import org.springframework.context.ApplicationEvent;
 
 /**
- * Created by jt on 1/6/16.
+ * Created by at on 1/6/15.
  */
 public class LoginSuccessEvent extends ApplicationEvent {
 

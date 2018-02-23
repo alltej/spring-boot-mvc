@@ -5,7 +5,7 @@ import org.springframework.context.ApplicationEventPublisherAware;
 import org.springframework.stereotype.Component;
 
 /**
- * Created by jt on 1/6/16.
+ * Created by at on 1/6/15.
  */
 @Component
 public class LoginSuccessEventPublisher implements ApplicationEventPublisherAware {
